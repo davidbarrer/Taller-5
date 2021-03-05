@@ -1,6 +1,6 @@
-# Taller-5
+# Taller-5 (Traits)
 # Ejercicios 1-5 COMPLETOS
-# Pruebas Unitarias y comentarios COMPLETOS
+
 
 
 
